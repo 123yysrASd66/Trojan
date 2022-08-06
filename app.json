@@ -1,6 +1,6 @@
 {
-    "name": "hr",
-    "description": "v2ray websocket proxy on heroku",
+    "name": "fdsa",
+    "description": "dsaw",
     "keywords": ["v2ray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
